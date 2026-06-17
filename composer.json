@@ -1,0 +1,36 @@
+{
+    "name": "storetown/module-surcharge-max",
+    "description": "Commercial Magento 2 Surcharge extension — transparent cutting fees, oversized-shipping surcharges and category-based extra costs. Multi-rule engine, per-product override, bulk-assign, mixed-cart handling, country restrictions. Hyvä-compatible. Module source delivered after purchase.",
+    "type": "metapackage",
+    "license": "proprietary",
+    "homepage": "https://www.storetown-media.de/stm-surcharge-max/",
+    "keywords": [
+        "magento2",
+        "magento-2",
+        "surcharge",
+        "fees",
+        "extra-costs",
+        "cutting-fee",
+        "shipping-surcharge",
+        "payment-surcharge",
+        "hyva",
+        "adobe-commerce",
+        "magento-extension"
+    ],
+    "authors": [
+        {
+            "name": "Storetown-Media",
+            "homepage": "https://www.storetown-media.de",
+            "role": "Vendor"
+        }
+    ],
+    "support": {
+        "email": "info@storetown-media.de",
+        "source": "https://github.com/storetown-media/stm-magento-2-surcharge-extension",
+        "docs": "https://www.storetown-media.de/stm-surcharge-max/",
+        "issues": "https://github.com/storetown-media/stm-magento-2-surcharge-extension/issues"
+    },
+    "require": {
+        "php": ">=8.1"
+    }
+}
